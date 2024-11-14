@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ben Hmida</h1>
 <h3 align="center">I’m currently a student in software engineering at Esprit.</h3>
 
+
+<!--![GitHub Snake Animation](https://github.com/AhmedBnHmida/REPO_NAME/raw/output/github-contribution-grid-snake.svg)-->
+
+Snake eating my constribution XD 
+ 
+![snake gif](https://github.com/AhmedBnHmida/AhmedBnHmida/blob/output/github-contribution-grid-snake.gif)
+
+
 - 🌱 I’m currently learning **.Net,Vue,..**
 
 - 💬 Ask me about **Angular,Java,Symfony,Spring,...**
@@ -28,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedbnhmida&show_icons=true&locale=en" alt="ahmedbnhmida" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbnhmida&" alt="ahmedbnhmida" /></p>
+
+
