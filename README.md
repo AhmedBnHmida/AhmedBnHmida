@@ -6,6 +6,7 @@
 
 Snake eating my constribution XD 
  
+<!--![snake gif](https://github.com/AhmedBnHmida/AhmedBnHmida/blob/output/github-contribution-grid-snake.gif)-->
 ![snake gif](https://github.com/AhmedBnHmida/AhmedBnHmida/blob/output/github-contribution-grid-snake.gif)
 
 
