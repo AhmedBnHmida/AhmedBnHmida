@@ -65,44 +65,6 @@ Passionate IT Engineering student at **ESPRIT** with strong expertise in **Full-
 
 ---
 
-## 💼 Professional Experience
-
-### **SAP Fiori & Cloud Development Intern** | Digital Sweep
-*July 2025 – September 2025*
-- Developed 2+ full-stack applications on SAP BTP using CAPM and Node.js
-- Built responsive SAP Fiori UIs with advanced data visualizations
-- Implemented secure authentication systems following Agile methodologies
-
-### **Full-Stack Development Intern** | Sierra Bravo Intelligence (MBK SYSTEM)
-*July 2024 – September 2024*
-- Engineered administrative dashboard with JWT authentication
-- Developed real-time notification system using WebSockets
-
----
-
-## 🚀 Featured Projects
-
-### **MindScribe - Intelligent Personal Journal**
-*AI-powered multimodal journaling application with emotional analysis*
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-NLTK-blue?style=flat-square)
-
-### **RecruitPro - Intelligent Recruitment Platform**
-*Full-stack MERN application with AI-powered recommendation engine*
-![MERN Stack](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
-### **EcoEvents - Sustainable Event Platform**
-*Laravel-based platform with AI-powered feedback analysis*
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![AI Integration](https://img.shields.io/badge/AI-Integration-purple?style=flat-square)
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -145,7 +107,11 @@ I'm always excited to discuss new opportunities, collaborate on projects, or jus
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedBnHmida/AhmedBnHmida/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedBnHmida/AhmedBnHmida/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/AhmedBnHmida/AhmedBnHmida/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmedBnHmida/AhmedBnHmida/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
 
 <p align="center">
